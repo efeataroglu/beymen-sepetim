@@ -1,2 +1,2 @@
 # beymen-sepetim
-Created with CodeSandbox
+I tried to complete the demo project of the cart area on the Beymen E-Commerce website.
